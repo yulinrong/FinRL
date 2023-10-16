@@ -17,6 +17,7 @@ pandas>=1.1.5
 pre-commit
 #pyfolio
 pyfolio-reloaded
+seaborn == 0.11.0
 
 # testing requirements
 pytest
